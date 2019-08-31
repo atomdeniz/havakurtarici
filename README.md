@@ -10,3 +10,10 @@ Dizine gidin ve bu gerekli paketleri yükleyin.
 ```bash
 npm install
 ```
+
+Kodunuzu çalıştırın
+
+```bash
+npm start
+```
+
