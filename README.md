@@ -14,6 +14,6 @@ npm install
 Kodunuzu çalıştırın
 
 ```bash
-npm start
+node index.js
 ```
 
